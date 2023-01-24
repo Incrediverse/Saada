@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "Hemisphere Skies",
+	"Description": "A sky and cloud plugin based on real life high dynamic range recordings featuring physically accurate lighting values.",
+	"Category": "Lighting",
+	"CreatedBy": "Wouter Weynants",
+	"CreatedByURL": "www.hemisphere-realtime.xyz",
+	"DocsURL": "https://hemisphere-realtime.xyz/documentation",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2f223e103cd3404c832bef9a5ac34e1e",
+	"SupportURL": "https://hemisphere-realtime.xyz/discord",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "HemisphereSkies",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "HemisphereSkiesEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
