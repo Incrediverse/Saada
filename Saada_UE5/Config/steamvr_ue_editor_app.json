@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.saada_ue5-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Github/Saada/Saada_UE5/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "A:/ActiveProjects/Steve/Saada/Saada_UE5/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
