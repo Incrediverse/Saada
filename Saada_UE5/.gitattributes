@@ -30,5 +30,5 @@
 # Anything in the Content folder
 
 Content/** filter=lfs diff=lfs merge=lfs -text
-Plugins/SparseVolumetrics filter=lfs diff=lfs merge=lfs -text
+Plugins/SparseVolumetrics/** filter=lfs diff=lfs merge=lfs -text
 

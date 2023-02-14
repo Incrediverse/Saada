@@ -76,9 +76,11 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/68085fbe90064bcd9bf26816ae0eadb5"
 		},
 		{
-			"Name": "LiveLinkMvnPlugin",
+			"Name": "SparseVolumetrics",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8665afd60be74d39a08f1410c3dc333b"
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
