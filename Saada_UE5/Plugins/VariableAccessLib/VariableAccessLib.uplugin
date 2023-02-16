@@ -1,0 +1,32 @@
+{
+  "FileVersion": 3,
+  "Version": 6,
+  "VersionName": "1.7.1",
+  "FriendlyName": "VariableAccessLib",
+  "Description": "This plugin contains functions which can access variables of any object by the name of the variable.",
+  "Category": "FunctionLibrary",
+  "CreatedBy": "Pixeltale Motion",
+  "CreatedByURL": "",
+  "DocsURL": "https://docs.google.com/document/d/17lRX5wFb0zLKymUpjgdqERVlL1sFCBLYzJRmX78KcW8/edit?usp=sharing",
+  "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/966e565e609d4868a4c83948f2936130",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "EnabledByDefault": true,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "VariableAccessLib",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault",
+      "WhitelistPlatforms": [
+        "Win64",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android"
+      ]
+    }
+  ]
+}
